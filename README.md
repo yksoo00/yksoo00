@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=yksoo00)](https://github.com/yksoo00)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=yksoo00)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yksoo00&layout=compact)](https://github.com/yksoo00/githubreadme-stats)
 <!--
 **yksoo00/yksoo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
